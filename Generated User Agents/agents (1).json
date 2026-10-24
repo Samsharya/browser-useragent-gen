@@ -1,0 +1,82 @@
+[
+  {
+    "id": "chrome-android-mobile",
+    "browser": "chrome",
+    "version": "131",
+    "os": "android",
+    "device": "mobile",
+    "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36"
+  },
+  {
+    "id": "chrome-linux-desktop",
+    "browser": "chrome",
+    "version": "131",
+    "os": "linux",
+    "device": "desktop",
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  {
+    "id": "firefox-android-mobile",
+    "browser": "firefox",
+    "version": "133",
+    "os": "android",
+    "device": "mobile",
+    "ua": "Mozilla/5.0 (Android 10; Mobile; rv:133.0) Gecko/133.0 Firefox/133.0"
+  },
+  {
+    "id": "firefox-linux-desktop",
+    "browser": "firefox",
+    "version": "133",
+    "os": "linux",
+    "device": "desktop",
+    "ua": "Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0"
+  },
+  {
+    "id": "safari-ios-mobile",
+    "browser": "safari",
+    "version": "17.6",
+    "os": "ios",
+    "device": "mobile",
+    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "id": "opera-windows-desktop",
+    "browser": "opera",
+    "version": "115",
+    "os": "windows",
+    "device": "desktop",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 OPR/115.0.0.0"
+  },
+  {
+    "id": "edge-windows-desktop",
+    "browser": "edge",
+    "version": "131",
+    "os": "windows",
+    "device": "desktop",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"
+  },
+  {
+    "id": "edge-macos-desktop",
+    "browser": "edge",
+    "version": "131",
+    "os": "macos",
+    "device": "desktop",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"
+  },
+  {
+    "id": "opera-android-mobile",
+    "browser": "opera",
+    "version": "85",
+    "os": "android",
+    "device": "mobile",
+    "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36 OPR/85.0.0.0"
+  },
+  {
+    "id": "safari-macos-desktop",
+    "browser": "safari",
+    "version": "17.6",
+    "os": "macos",
+    "device": "desktop",
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15"
+  }
+]
